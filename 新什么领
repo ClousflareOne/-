@@ -1,0 +1,7 @@
+echo "# -" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git 分支 -M 主
+git 远程添加 origin git@github.com:ClousflareOne/-.git
+ git push -u origin主要的
